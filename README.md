@@ -7,3 +7,5 @@ What skills are shown here:
 - aggregation functions;
 - joins;
 - subqueries.
+
+Original project you can find [by the link] (https://app.datacamp.com/learn/projects/1413)
