@@ -8,4 +8,4 @@ What skills are shown here:
 - joins;
 - subqueries.
 
-Original project you can find [by the link] (https://app.datacamp.com/learn/projects/1413)
+Original project you can find [by the link](https://app.datacamp.com/learn/projects/1413)
